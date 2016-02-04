@@ -1,0 +1,21 @@
+"[{
+    "name": "Cheesy-peasy",
+    "price": "10",
+    "sauce": "ketchup",
+    "description": "Un super burger de la mort qui est trop bon avec plein de sauce à stock c'est trop cool",
+    "pictureUrl": "http://i.perezhilton.com/wp-content/uploads/2013/08/burger-king-to-introduce-new-french-fry-burger.fpthumb.top-left.jpg"
+}, {
+    "name": "Quick mitraillette",
+    "price": "15",
+    "sauce": "mayo only",
+    "description": "Miam de la sauce à stock",
+    "pictureUrl": "http://i.perezhilton.com/wp-content/uploads/2013/08/burger-king-to-introduce-new-french-fry-burger.fpthumb.top-left.jpg"
+},
+    {
+    "name": "Mac dürum",
+    "price": 8,
+    "sauce": "aïl, andalouse",
+    "description": "dfsjdfnsklfd",
+    "pictureUrl": "http://i.perezhilton.com/wp-content/uploads/2013/08/burger-king-to-introduce-new-french-fry-burger.fpthumb.top-left.jpg"
+}
+]"

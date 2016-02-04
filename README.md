@@ -1,0 +1,1 @@
+This is a simple server using Node.js and Express that returns JSON sample data that is used in the AJAX exercices of my course.

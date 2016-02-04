@@ -1,0 +1,16 @@
+{
+  "name": "cepegra_training",
+  "version": "0.0.0",
+  "description": "APIs used in JavaScript exercices",
+  "main": "server.js",
+  "repository": { 
+	"type" : "git", 
+	"url" : "https://github.com/nbwns/cepegra.git"
+  },
+  "author": "Nicolas Bauwens",
+  "dependencies": {
+    "async": "~0.2.8",
+    "cors": "^2.5.2",
+    "express": "~3.2.4"
+  }
+}
